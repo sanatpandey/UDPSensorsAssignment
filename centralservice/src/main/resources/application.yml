@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: centralservice
+  kafka:
+    bootstrap-servers: localhost:9092
+    consumer:
+      group-id: my-consumer-group

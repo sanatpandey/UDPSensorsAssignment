@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: warehouseservice
+  kafka:
+    bootstrap-servers: localhost:9092
+
+warehouseService:
+  udpPort: 3344
